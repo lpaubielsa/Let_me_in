@@ -42,7 +42,10 @@ To run the code in the particle board. https://build.particle.io/
 
 IFFT allows you to easily create a conditional statement between the Input and the Output. https://ifttt.com/recipes
 
-Code: https://github.com/lpaubielsa/Let_me_in/motionsensorcat.js
+Code: https://github.com/lpaubielsa/Let_me_in/blob/master/motionsensorcat.js
+
+
+Thanks and don't forget your cat outside!
  
  
 
