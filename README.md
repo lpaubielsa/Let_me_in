@@ -13,6 +13,21 @@ A device that notifies me when my cat is waiting outside the window.
 ![Let_me_in](/IMG_9407.JPG)
 ![Let_me_in](/IMG_9410.JPG)
 
+The hardware consists of a motion sensor that detects if the cat is on the windowsill (INPUT). The sensor sends the values (true or false) to the particleboard where the code runs. The board has a wireless connection in order to send a message to my phone every time that detects movement (OUTPUT).
+
+This is possible through the use of an IFTTT recipe.
+
+ 
+What is IFTTT?
+
+IFTTT is a free web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services.
+
+ 
+How does it work?
+
+I created a recipe that connects the particleboard with my phone.
+If the input is false IFTTT will not send me an SMS. If the input is true then a message is sent.
+
 
 
 ####See the video -----> https://youtu.be/IDC_40A-rBQ
