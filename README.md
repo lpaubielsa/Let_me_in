@@ -1,4 +1,4 @@
-####"Let me in!" is the result of the 6-week physical computing workshop by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
+**"Let me in!"** is the result of the 6-week physical computing workshop by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
 
 This DIY-project solves a daily problem at a reasonable price.
 
