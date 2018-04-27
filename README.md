@@ -30,7 +30,7 @@ If the input is false IFTTT will not send me an SMS. If the input is true then a
 
 
 
-####See the video -----> https://youtu.be/IDC_40A-rBQ
+**See the video** -----> https://youtu.be/IDC_40A-rBQ
 
 
 Below you will find some more information about how is it made.
@@ -57,7 +57,7 @@ To run the code in the particle board. https://build.particle.io/
 
 IFFT allows you to easily create a conditional statement between the Input and the Output. https://ifttt.com/recipes
 
-Code: https://github.com/lpaubielsa/Let_me_in/blob/master/motionsensorcat.js
+Code: https://github.com/lpaubielsa/Let_me_in/blob/master/motionsensorcat.ino
 
 
 Thanks and don't forget your cat outside!
